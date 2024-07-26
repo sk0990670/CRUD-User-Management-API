@@ -26,7 +26,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/yourusername/CRUD-User-Management-API.git
-    cd pokedex
+    cd CRUD-User-Management-API
     ```
 
 2. **Install Dependencies:**
